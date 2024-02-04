@@ -1,0 +1,24 @@
+[
+{
+"from": "0x5FD6eB55D12E759a21C09eF703fe0CBa1DC9d88D",
+"topic": "0x6719158a5be4513776adf69b272582787776a58d917936fc6ecbae31f8221d0e",
+"event": "BeneFiciarySettlement",
+"args": {
+"0": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+"1": "30",
+"beneficiary": "0x5B38Da6a701c568545dCfcB03FcB875f56beddC4",
+"amount": "30"
+}
+},
+{
+"from": "0x5FD6eB55D12E759a21C09eF703fe0CBa1DC9d88D",
+"topic": "0xdaec4582d5d9595688c8c98545fdd1c696d41c6aeaeb636737e84ed2f5c00eda",
+"event": "AuctionEnded",
+"args": {
+"0": "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db",
+"1": "20",
+"winner": "0x4B20993Bc481177ec7E8f571ceCaE8A9e22C02db",
+"amount": "20"
+}
+}
+]
