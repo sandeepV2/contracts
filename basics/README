@@ -1,0 +1,6 @@
+This section demonstrates use of 
+
+* Different storage types in solidity.
+* Named imports
+* Inheritence and override.
+* Instantiation of one contract with another one.
